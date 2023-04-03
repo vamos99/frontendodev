@@ -1,0 +1,21 @@
+*{
+}
+.section-content{
+    width: 50%;
+    height: auto;
+    /* background: rgba(0, 0, 0, 0.249) !important; */
+}
+
+form>.row{
+    /* padding-bottom: 20px; */
+
+}
+input{
+    color: black !important;
+}
+.contact_bt{
+    background-color: #8eb50b !important;
+}
+.contact_bt:hover{
+    background-color: rgb(255, 173, 20) !important;
+}
